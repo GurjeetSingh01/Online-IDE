@@ -1,5 +1,5 @@
 # Online IDE for web development
-## Support HTML, CSS & JAVASCRIPT
+## Supports HTML, CSS & JAVASCRIPT
 <br>
 
 
